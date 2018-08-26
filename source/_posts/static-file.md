@@ -1,7 +1,10 @@
 title: 静态资源发布
 ---
 
+<img src="../../../.././images/cat.jpeg" alt="" style="height: 400px;width: 700px;">
+
 ## 部署页面和资源
+
 
 ### 全量部署
 
